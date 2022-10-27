@@ -1,7 +1,5 @@
 import {
-  Container,
   Box,
-  Button,
 } from '@mui/material';
 import MiniAppButton from '../components/MiniAppButton';
 
