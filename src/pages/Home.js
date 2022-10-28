@@ -6,7 +6,7 @@ import MiniAppButton from '../components/MiniAppButton';
 function Home() {
   return (
     <Box sx={{
-      backgroundColor: 'grey',
+      backgroundColor: '#21262b',
       height: '100vh',
       display: 'flex',
       justifyContent: 'Center',
