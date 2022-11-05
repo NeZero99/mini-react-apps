@@ -8,6 +8,7 @@ function MiniAppButton({ name, destination }) {
   return (
     <Box sx={{
         minWidth: 100,
+        mx: 1,
         height: 70,
         borderRadius: 5,
         display: 'flex',

@@ -19,6 +19,7 @@ function Home() {
         justifyContent: 'center'
       }}>
         <MiniAppButton name='Calculator' destination='/calculator'/>
+        <MiniAppButton name='Stopwatch' destination='/stopwatch'/>
       </Box>
     </Box>
   )
