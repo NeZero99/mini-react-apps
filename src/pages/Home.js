@@ -20,6 +20,7 @@ function Home() {
       }}>
         <MiniAppButton name='Calculator' destination='/calculator'/>
         <MiniAppButton name='Stopwatch' destination='/stopwatch'/>
+        <MiniAppButton name='Color Quiz' destination='/color-quiz'/>
       </Box>
     </Box>
   )
